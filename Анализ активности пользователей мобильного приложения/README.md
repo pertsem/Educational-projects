@@ -9,5 +9,4 @@
 5. Построена и проанализирована воронка событий.
 6. Проанализированы результаты A/A/B-теста.
 
-Библиотеки Python, используемые в проекте:
-`pandas`, `scipy`, `statsmodels`, `matplotlib`, `seaborn`, `plotly`
+Библиотеки Python, используемые в проекте: `pandas`, `scipy`, `statsmodels`, `matplotlib`, `seaborn`, `plotly`.
