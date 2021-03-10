@@ -10,4 +10,4 @@
 6. Проанализированы результаты A/A/B-теста.
 
 Библиотеки Python, используемые в проекте:
-* `pandas`
+`pandas`, `scipy`, `statsmodels`, `matplotlib`, `seaborn`, `plotly`
